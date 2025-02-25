@@ -39,5 +39,6 @@ def unzip_files(directory):
     print("Готово!")
 
 if __name__ == "__main__":
-    directory = input("Введите путь к директории: ").strip()
+    # directory = input("Введите путь к директории: ").strip()
+    directory = r"C:\Users\Astana\Desktop\Client"
     unzip_files(directory)
