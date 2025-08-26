@@ -1,1 +1,1 @@
-python C:\Users\Astana\Desktop\MyPrograms\UnZip\main.py
+C:\Users\Astana\Desktop\MyPrograms\UnZip\.venv\Scripts\python.exe C:\Users\Astana\Desktop\MyPrograms\UnZip\main.py
